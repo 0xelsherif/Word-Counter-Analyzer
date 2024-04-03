@@ -1,6 +1,6 @@
 # Word Counter Analyzer
 
-This is a simple JavaScript project is a simple yet useful tool developed using JavaScript. It provides users with the ability to analyze text input by calculating various metrics such as word count, letter count, reading time, speaking time, and paragraph count. This project is designed to be integrated into any HTML document with a textarea element, making it versatile and easily accessible.
+Word Counter Analyzer project is a simple yet useful tool developed using JavaScript. It provides users with the ability to analyze text input by calculating various metrics such as word count, letter count, reading time, speaking time, and paragraph count. This project is designed to be integrated into any HTML document with a textarea element, making it versatile and easily accessible.
 
 ## Usage
 
