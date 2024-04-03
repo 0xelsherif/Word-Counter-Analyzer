@@ -33,7 +33,7 @@ function updateWordCount() {
   // Update the inner HTML of the result div with the word count, letter count, reading time, speaking time, and paragraph count
   resultDiv.innerHTML = `
     <p>Number of words: ${wordCount}</p>
-    <p>Number of letters (excluding spaces): ${letterCount}</p>
+    <p>Number of letters: ${letterCount}</p>
     <p>Number of paragraphs: ${paragraphCount}</p>
     <p>Reading time: ${formatTime(Math.floor(readingTimeMinutes), readingTimeSeconds)}</p>
     <p>Speaking time: ${formatTime(Math.floor(speakingTimeMinutes), speakingTimeSeconds)}</p>
