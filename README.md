@@ -1,1 +1,1 @@
-# Word-Counter
+# Word Counter Analyzer
