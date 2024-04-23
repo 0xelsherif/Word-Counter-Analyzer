@@ -4,7 +4,6 @@
 <a href="https://github.com/0xelsherif/Word-Counter-Analyzer"><img src="https://img.shields.io/github/forks/0xelsherif/Word-Counter-Analyzer.svg?style=social&label=Fork" alt="GitHub Forks"></a>
 <a href="https://github.com/0xelsherif/Word-Counter-Analyzer/discussions"><img src="https://img.shields.io/github/discussions/0xelsherif/Word-Counter-Analyzer?style=social&logo=github" alt="GitHub Discussions"></a>
 <a href="https://github.com/0xelsherif/Word-Counter-Analyzer/issues"><img src="https://img.shields.io/github/issues/0xelsherif/Word-Counter-Analyzer?style=social&logo=github" alt="GitHub Issues"></a>
-<a href="https://twitter.com/intent/follow?screen_name=0xelsherif"><img alt="Follow @0xelsherif on Twitter" src="https://img.shields.io/twitter/follow/0xelsherif"></a>
 <a href="https://codepen.io/0xelsherif/full/dyLJWRd" target="_blank"><img src="https://img.shields.io/badge/CodePen-Project-blue?logo=codepen" alt="CodePen Project"></a>
 </p>
 
@@ -90,6 +89,9 @@ If you'd like to contribute to the project, whether it's fixing bugs, adding new
 Follow me on GitHub to stay updated with my latest projects and contributions:
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/0xelsherif?label=Follow&style=social)](https://github.com/0xelsherif)
+<a href="https://twitter.com/intent/follow?screen_name=0xelsherif"><img alt="Follow @0xelsherif on Twitter" src="https://img.shields.io/twitter/follow/0xelsherif"></a>
+[![Connect with @0xelsherif on LinkedIn](https://img.shields.io/badge/Connect-0xelsherif-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/0xelsherif)
+[![Follow @0xelsherif on Medium](https://img.shields.io/badge/Follow-0xelsherif-black?style=social&logo=medium)](https://medium.com/@0xelsherif)
 
 ### Buy Me a Coffee ☕
 
