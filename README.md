@@ -1,3 +1,13 @@
+<p align="center">
+<a href="https://github.com/0xelsherif/Word-Counter-Analyzer"><img src="https://img.shields.io/github/repo-size/0xelsherif/Word-Counter-Analyzer?style=social&logo=github"></a>
+<a href="https://github.com/0xelsherif/Word-Counter-Analyzer"><img src="https://img.shields.io/github/stars/0xelsherif/Word-Counter-Analyzer.svg?style=social&label=Star" alt="GitHub Stars"></a>
+<a href="https://github.com/0xelsherif/Word-Counter-Analyzer"><img src="https://img.shields.io/github/forks/0xelsherif/Word-Counter-Analyzer.svg?style=social&label=Fork" alt="GitHub Forks"></a>
+<a href="https://github.com/0xelsherif/Word-Counter-Analyzer/discussions"><img src="https://img.shields.io/github/discussions/0xelsherif/Word-Counter-Analyzer?style=social&logo=github" alt="GitHub Discussions"></a>
+<a href="https://github.com/0xelsherif/Word-Counter-Analyzer/issues"><img src="https://img.shields.io/github/issues/0xelsherif/Word-Counter-Analyzer?style=social&logo=github" alt="GitHub Issues"></a>
+<a href="https://twitter.com/intent/follow?screen_name=0xelsherif"><img alt="Follow @0xelsherif on Twitter" src="https://img.shields.io/twitter/follow/0xelsherif"></a>
+<a href="https://codepen.io/0xelsherif/full/dyLJWRd" target="_blank"><img src="https://img.shields.io/badge/CodePen-Project-blue?logo=codepen" alt="CodePen Project"></a>
+</p>
+
 # Word Counter Analyzer
 
 Word Counter Analyzer project is a simple yet useful tool developed using JavaScript. It provides users with the ability to analyze text input by calculating various metrics such as word count, letter count, reading time, speaking time, and paragraph count. This project is designed to be integrated into any HTML document with a textarea element, making it versatile and easily accessible.
