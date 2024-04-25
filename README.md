@@ -5,6 +5,7 @@
 <a href="https://github.com/0xelsherif/Word-Counter-Analyzer/discussions"><img src="https://img.shields.io/github/discussions/0xelsherif/Word-Counter-Analyzer?style=social&logo=github" alt="GitHub Discussions"></a>
 <a href="https://github.com/0xelsherif/Word-Counter-Analyzer/issues"><img src="https://img.shields.io/github/issues/0xelsherif/Word-Counter-Analyzer?style=social&logo=github" alt="GitHub Issues"></a>
 <a href="https://codepen.io/0xelsherif/full/dyLJWRd" target="_blank"><img src="https://img.shields.io/badge/CodePen-Project-blue?logo=codepen" alt="CodePen Project"></a>
+<a href="https://0xelsherif.medium.com/mastering-text-analysis-with-javascript-a-step-by-step-guide-f9914fb5b5f1" target="_blank"><img src="https://img.shields.io/badge/Medium-Publication-green?logo=medium" alt="Medium Publication"></a>
 </p>
 
 # Word Counter Analyzer
