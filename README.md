@@ -91,8 +91,8 @@ Follow me on GitHub to stay updated with my latest projects and contributions:
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/0xelsherif?label=Follow&style=social)](https://github.com/0xelsherif)
 <a href="https://twitter.com/intent/follow?screen_name=0xelsherif"><img alt="Follow @0xelsherif on Twitter" src="https://img.shields.io/twitter/follow/0xelsherif"></a>
-[![Connect with @0xelsherif on LinkedIn](https://img.shields.io/badge/Connect-0xelsherif-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/0xelsherif)
-[![Follow @0xelsherif on Medium](https://img.shields.io/badge/Follow-0xelsherif-black?style=social&logo=medium)](https://medium.com/@0xelsherif)
+[![Connect with @0xelsherif on LinkedIn](https://img.shields.io/badge/Connect--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/0xelsherif)
+[![Follow @0xelsherif on Medium](https://img.shields.io/badge/Follow--black?style=social&logo=medium)](https://medium.com/@0xelsherif)
 
 ### Buy Me a Coffee ☕
 
