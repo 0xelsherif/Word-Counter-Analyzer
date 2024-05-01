@@ -6,7 +6,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh; /* Changed height to min-height */
 }
 
 .container {
@@ -17,12 +17,13 @@ body {
   background-color: #fff;
   border-radius: 12px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin: 40px auto; 
 }
 
 h2 {
   color: #333;
   text-align: center;
-  font-size: 32px;
+  font-size: 2rem; /* Changed font size to relative unit */
   margin-bottom: 30px;
 }
 
@@ -34,7 +35,7 @@ textarea {
   border-radius: 10px;
   resize: vertical;
   box-sizing: border-box;
-  font-size: 20px;
+  font-size: 1.25rem; /* Changed font size to relative unit */
 }
 
 #result {
@@ -46,50 +47,104 @@ textarea {
 #result p {
   margin: 0 0 20px;
   color: #333;
-  font-size: 18px;
+  font-size: 1rem; /* Changed font size to relative unit */
 }
+/* 
+.flyout-container {
+  position: fixed;
+  top: 50%;
+  right: 0;
+  width: 52px;
+  height: 360px;
+  transform: translateY(-50%);
+  
+}
+
+.flyout {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 480px;
+  height: 360px;
+  background: #eaeaea;
+  transition: transform .3s ease;
+  border-radius: 4px 0 0 4px;
+  &.open,
+  &:hover {
+    transform: translateX(calc(-100% + 52px));
+  }
+}
+
+.flyout-trigger {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  font-size: 24px;
+  line-height: 40px;
+  width: 360px;
+  font-weight: bold;
+  transform: rotate(270deg);
+  transform-origin: 27px;
+}
+
+.flyout-content {
+  margin-left: 52px;
+}
+
+.flyout-content-area {
+  margin: 40px 0;
+  
+  
+}
+
+.btn-primary {
+  color: white;
+  background: #b4111a;
+  border: none;
+  
+  &:hover,
+  &:focus,
+  &:active,
+  &:active:focus {
+    background: #920000;
+  }
+}
+
+.btn-link {
+  color: #b4111a;
+  
+  &:hover,
+  &:focus,
+  &:active,
+  &:active:focus {
+    color: #920000;
+  }
+} */
 
 @media (max-width: 768px) {
   .container {
     padding: 20px;
   }
-  
+
   h2 {
-    font-size: 28px;
+    font-size: 1.75rem; /* Changed font size to relative unit */
     margin-bottom: 20px;
   }
-  
+
   textarea {
     padding: 15px;
     margin-bottom: 20px;
-    font-size: 16px;
+    font-size: 1rem; /* Changed font size to relative unit */
   }
-  
+
   #result {
     padding: 20px;
   }
-  
+
   #result p {
-    font-size: 14px;
+    font-size: 0.875rem; /* Changed font size to relative unit */
     margin-bottom: 15px;
   }
-}
-/* Footer styles */
-.footer {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 20px 0;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-
-.footer a {
-  color: #fff; /* Set hyperlink color to white */
-  text-decoration: none; /* Remove underline */
-}
-
-.footer a:hover {
-  text-decoration: underline; /* Add underline on hover */
+  
 }
